@@ -1,0 +1,70 @@
+[
+	{
+		"question": "What colour is the sky?",
+		"answers": ["blue"]
+	},
+	{
+		"question": "How many letters are there in the alphabet?",
+		"answers": ["26", "twenty-six", "twenty six", "twentysix"]
+    },
+    {
+        "question": "Which planet is closest to the sun?",
+        "answers": ["mercury"]
+    },
+    {
+        "question": "How many planets are there in the Solar System?",
+        "answers": ["8", "eight"]
+    },
+    {
+        "question": "What is my name?",
+        "answers": ["phobos"]
+    },
+    {
+        "question": "What is the capital city of England?",
+        "answers": ["london"]
+    },
+    {
+        "question": "What is the capital city of Russia?",
+        "answers": ["moscow"]
+    },
+    {
+        "question": "What language is spoken in the Netherlands?",
+        "answers": ["dutch"]
+    },
+    {
+        "question": "Which popstar was reffered to as 'The king of pop' during their lifetime, and even now?",
+        "answers": ["michael", "michaeljackson", "michael jackson", "mike", "jackson", "mikejackson"]
+    },
+    {
+        "question": "Which Italian city has a leaning tower?",
+        "answers": ["pisa"]
+    },
+    {
+        "question": "Saint Andrew is the Patron saint of England. True or false?",
+        "answers": ["false", "f"]
+    },
+    {
+        "question": "How many players are there in a standard football team?",
+        "answers": ["11", "eleven"]
+    },
+    {
+        "question": "How many strings does a violin have?",
+        "answers": ["4", "four"]
+    },
+    {
+        "question": "Which country gave the statue of liberty to the United States as a gift?",
+        "answers": ["france"]
+    },
+    {
+        "question": "How many leaves does a shamrock have?",
+        "answers": ["4", "four"]
+    },
+    {
+        "question": "How many sisters does Bart Simpson have?",
+        "answers": ["2", "two"]
+    },
+    {
+        "question": "What is a baby kangaroo called?",
+        "answers": ["a joey", "joey"]
+    }
+]

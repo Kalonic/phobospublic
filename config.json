@@ -1,0 +1,27 @@
+{
+    "ownerID": "407221681858412575",
+    "token": "Njk1OTM2Mjc3OTQxNDUyODU2.Xr2aBw.KftEqon5nYef-ZN5CBG3jgWOyss",
+    "prefix": "?",
+    "serverid": "695938279354400789",
+    "blacklistedusers": [""],
+    "swear": ["fuck", "shit", "nigga", "nigger", "bitch", "bastard", "coon", "cunt", "faggot"],
+    "emoji": {
+    "tick": "<:tick:697201554477940837>",
+    "cross": "<:wrong:697201580935479367>",
+    "online": "<:online:697201431387832421>",
+    "offline": "<:invisible:697200742813007893>",
+    "streaming": "<:streaming:697201516477546626>",
+    "dnd": "<:dnd:697201459107987478>",
+    "idle": "<:idle:697201487243378698>"
+},
+    "colour": {
+    "green": "32a852",
+    "turquoise": "36b584",
+    "blue": "17518f",
+    "blurple": "7289da",
+    "lightgrey": "99aab5",
+    "darkgrey": "2c2f33",
+    "purple": "8142f5",
+    "red": "ff5555"
+    }
+}
